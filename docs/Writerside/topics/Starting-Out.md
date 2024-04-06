@@ -52,7 +52,7 @@ Make sure that:
 I am using RustRover for this project. <i>Yes I shilled out for suite of tools from Intellij. No I currently do not regret it.</i>
 You can use VSCode or any other editor you want. I just will not be providing any other information about them.
 
-Also for writing this document, I am using WriterSide, _again from Intellij_, so if you want to see the source it is found [here]().
+Also for writing this document, I am using WriterSide, _again from Intellij_, so if you want to see the source it is found [here](https://github.com/Expore-it-all/KVMem).
 
 
 ## Part 1 - Init project, the Sisyphus of development
